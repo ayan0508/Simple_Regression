@@ -1,3 +1,3 @@
 # Simple_Regression
 Consists of data prepossing and apply regression
-https://drive.google.com/drive/u/0/my-drive
+https://docs.google.com/spreadsheets/d/1UHgaLuOMVG7mW4B13B9s2AYSTCN-nuiBMXErclMaxcg/edit#gid=324380433
